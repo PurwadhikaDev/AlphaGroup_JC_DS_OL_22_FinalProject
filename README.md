@@ -440,7 +440,24 @@ Model terpilih dipakai untuk menghasilkan **Churn Risk Score** (probabilitas) un
 - Jika perlu, teknik interpretabilitas seperti SHAP bisa dipertimbangkan agar keputusan bisa dijelaskan ke stakeholders.  
 
 
+### 9. Deploy Model to Web Base
+
+Deployment Machine Learning adalah proses membuat model machine learning yang telah dilatih (trained) dapat digunakan dalam aplikasi yang dapat diakses oleh pengguna akhir secara online.
+
+Deployment machine learning memiliki peran penting dalam pemanfaatan model machine learning secara optimal dalam berbagai aplikasi yang dapat mempermudah dan mempercepat pengambilan keputusan.
+
+1. Exploratory Data Analyst
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/33950f9a-ede4-45f3-ade2-1da40c284c7c" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3c07a373-971d-4565-942b-840a7b21a72f" />
+
+2. Prediksi Churn
+   
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9994785d-afa8-445b-8f91-032f73da29e9" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e24f9c6d-3a9a-4044-9cc0-fb290c531672" />
+
+
 Link Colab: https://colab.research.google.com/drive/1YAvCTn4oH1kR3xowhnPpUE3af3ERNo-W <br>
 Link Tableu: https://www.kaggle.com/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction <br>
 Link download material: https://www.kaggle.com/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction <br>
-Link demo / deployment: <br>
+Link demo / deployment: https://alphafinprojectchurnanalysisprediction.streamlit.app <br>
