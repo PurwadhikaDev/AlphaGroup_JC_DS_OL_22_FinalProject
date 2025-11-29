@@ -448,13 +448,15 @@ Deployment machine learning memiliki peran penting dalam pemanfaatan model machi
 
 1. Exploratory Data Analyst
 
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/33950f9a-ede4-45f3-ade2-1da40c284c7c" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3c07a373-971d-4565-942b-840a7b21a72f" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/810b230d-bcaf-4d45-a8c0-8c7be53a3ea5" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a8a727c5-ab5d-4d1f-83a7-f9fd215ab593" />
+
+
 
 2. Prediksi Churn
    
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9994785d-afa8-445b-8f91-032f73da29e9" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e24f9c6d-3a9a-4044-9cc0-fb290c531672" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4afc2caa-69f4-40ca-a733-02490075287e" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/eb9d3a79-6859-4fb3-a261-d452590cbf44" />
 
 
 Link Colab: https://colab.research.google.com/drive/1YAvCTn4oH1kR3xowhnPpUE3af3ERNo-W <br>
